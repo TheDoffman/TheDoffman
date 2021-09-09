@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheDoffman aslo know as HoffmanTV on Twitch.
+- 👀 Learning new coding languages alongside learning new tricks with languanges I know already. Langunages I know are as followed.... PHP, HTML, Python, C+, C Sharp and can't forget Java.
+- 🌱 I’m currently learning better way to write clean code that is easy for me and others to understand if I or someone else hasnt looked at it in a long time.
+- 💞️ I’m looking to collaborate on anything really...
+- 📫 You can reach me at thedoffman@gmail.com
