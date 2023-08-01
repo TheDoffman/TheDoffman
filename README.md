@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @TheDoffman aslo know as HoffmanTV on Twitch.
-- 👀 Learning new coding languages alongside learning new tricks with languanges I know already. Langunages I know are as followed.... PHP, HTML, Python, C+, C Sharp and can't forget Java.
-- 🌱 I’m currently learning better way to write clean code that is easy for me and others to understand if I or someone else hasnt looked at it in a long time.
-- 💞️ I’m looking to collaborate on anything really...
-- 📫 You can reach me at thedoffman@gmail.com
+👋 Hello there! I'm a seasoned software engineer with a passion for developing innovative solutions that can help transform the digital landscape. With expertise in various programming languages including Python, Java, and JavaScript, I'm continuously learning and adapting to keep pace with the rapidly evolving tech world.
+
+Over the past decade, I've been involved in numerous projects, ranging from AI-based solutions to robust web development and mobile app creation. My goal is to utilize this platform to collaborate with other like-minded individuals on projects that push the boundaries of what's possible.
+
+Open to collaboration and new opportunities, I believe in the power of code to build a more connected, efficient, and creative world. 🌎
+
+🛠 Skills: Python, Java, JavaScript, React.js, Django, Machine Learning, Docker, Kubernetes, and AWS.
+
+⚡ Fun fact: Apart from coding, I love hiking 🏞️, photography 📷, and playing the guitar 🎸.
+
+Feel free to get in touch or check out my repositories! Happy coding! 💻
