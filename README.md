@@ -4,8 +4,6 @@ Over the past decade, I've been involved in numerous projects, ranging from AI-b
 
 Open to collaboration and new opportunities, I believe in the power of code to build a more connected, efficient, and creative world. 🌎
 
-🛠 Skills: Python, Java, JavaScript, React.js, Django, Machine Learning, Docker, Kubernetes, and AWS.
-
-⚡ Fun fact: Apart from coding, I love hiking 🏞️, photography 📷, and playing the guitar 🎸.
+🛠 Skills: Python, Java, JavaScript, React.js, and AWS.
 
 Feel free to get in touch or check out my repositories! Happy coding! 💻
