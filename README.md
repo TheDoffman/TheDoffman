@@ -1,9 +1,11 @@
-👋 Hello there! I'm a seasoned software engineer with a passion for developing innovative solutions that can help transform the digital landscape. With expertise in various programming languages including Python, Java, and JavaScript, I'm continuously learning and adapting to keep pace with the rapidly evolving tech world.
+👋 Hey, I’m a software engineer who enjoys turning complex problems into practical, useful software.
 
-Over the past decade, I've been involved in numerous projects, ranging from AI-based solutions to robust web development and mobile app creation. My goal is to utilize this platform to collaborate with other like-minded individuals on projects that push the boundaries of what's possible.
+Over the past decade, I’ve worked across AI, web development, and mobile apps. I like building things that solve real problems, learning new tools, and finding ways to make software simpler and more reliable.
 
-Open to collaboration and new opportunities, I believe in the power of code to build a more connected, efficient, and creative world. 🌎
+🛠 **My toolkit:** Python · Java · JavaScript · React · AWS
 
-🛠 Skills: Python, Java, JavaScript, React.js, and AWS.
+🌱 **What keeps me curious:** Exploring AI, improving my engineering skills, and learning from how others approach a problem.
 
-Feel free to get in touch or check out my repositories! Happy coding! 💻
+🤝 **Let’s build something:** I’m open to collaboration and new opportunities, especially projects with a clear purpose and room to experiment.
+
+Take a look around my repositories, and feel free to reach out. 💻
